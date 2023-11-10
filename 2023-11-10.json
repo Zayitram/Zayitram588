@@ -1,0 +1,26 @@
+{
+  "name": "Steven White",
+  "age": 57,
+  "address": {
+    "street": "Rouva Circle",
+    "city": "Noutsan",
+    "state": "MO",
+    "zip": "20282"
+  },
+  "contact": {
+    "phone": "(416) 433-7165",
+    "servicePhone": "800597932"
+  },
+  "birthday": "2005-07-08T12:03:44.962Z",
+  "ip": "232.213.16.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Lavezuc wid daazomav tom ujekuni luhtotiv koika dic tinol agagado hon bohkotpo vov hibceec ic wuzmeuw. Fit os so awa jurjah eja uvu bos urkeru met vuozbu ko muduswa ubiac. Ton kimawoj newbop tabpifup wuz le hidamije wej tu je cuc joni. Ahu jorune ohvihuc halgerfu rome vig akicetuv vi sucukepu ba ajha rema sahjuz mocwaut.",
+    "bio": "Ovbu sileb zavanor egadabum tata vonaho ciphopaj mogcussup dalru deni ho ejek nib amipin nu do nadaz. Kug sikgez wav doez jofdamin bupbi ovu pitcej gim je fesien sonrev vuhgap he awouzjuf amrepap ro sofo. Je wofi pilsa laketav pafot romuzwil erajow gokioz pocgu citlevaj furiec ripzeza fapninon."
+  },
+  "apiKey": "ddbd10043d0a0705b9b8f4d587de46fc70b9bb3e554d100d3bfc34cda57b5aa1",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
