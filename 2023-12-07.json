@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Burns",
+  "age": 38,
+  "address": {
+    "street": "Lamut Path",
+    "city": "Cavenaz",
+    "state": "MT",
+    "zip": "58777"
+  },
+  "contact": {
+    "phone": "(644) 956-7166",
+    "servicePhone": "800549935"
+  },
+  "birthday": "1979-06-27T09:41:33.928Z",
+  "ip": "165.237.140.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Bertigzes haride lawo koik gog eba baj ki co epaz wo rotelop wofuldi jugane gange zeboome ozefi. Omnu sihhengi wejoiza kes vo tilkapdab cuplethe nolcermeg rewes kapdiz ifzi ohu eceafa comab. Siwrite zeniwiraj ub kapu boj feka loete zuari kamocge vure infigis kozluk punocetu ladbu oro. Wor cubuc itidata rod pu rosroc makonela odiezo dogal pavpavzoz rejnosod zuivu jum muitda izo abumani.",
+    "bio": "Pucoro tawko em sertege mejeta cun ni kupwete ne pohunjap ujnunra zagdo wiv asnogvej afbol poab to. Jadpo ci vil wo ca ke ejederuf rizdoras jivresdik sekaf hagimaowo je ub ejuetjud pore jacuv kec tikuc. Riwhuvdu besbunfor beg fipnud uz mecniug gobo fisu pajsujof lo damdiw at zonad gu kubbovu. Ohe vo fodug wif awwawrof pugepit huohoiv foktus pozrab hegjiname eti carer ijlu wiojowec mel ideducac. Ruto koonoiku atik dehja kijal lo goztadi duhivne upzu hun ceic git."
+  },
+  "apiKey": "832ac1c3acd7916853be6b0b6b7821016a89b931f73796a088cc70a60c23dd9a",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
