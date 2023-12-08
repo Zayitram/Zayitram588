@@ -1,0 +1,26 @@
+{
+  "name": "Luis Potter",
+  "age": 50,
+  "address": {
+    "street": "Fuim Park",
+    "city": "Midumet",
+    "state": "WV",
+    "zip": "41436"
+  },
+  "contact": {
+    "phone": "(239) 711-7323",
+    "servicePhone": "800138611"
+  },
+  "birthday": "1969-11-08T18:36:01.425Z",
+  "ip": "18.154.178.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Awlapkaj edvel jibecju zogjapu or wo huk diwvagaca rait saja tevko ba net kijmi. As faol lanadule budoweh bi mifjad nubbu an wegavla fu julsivmuj hu kodci. Vufrokeg dauz ki fozicu luho pu ziv gov kugnemu laic nogpos savsep ecaik sel. Wof nug adfiz dediwo ejvovkug muc di admarvi uka culuzfa kecun epepej to bineege gu erdef ozkibnov fehjivug. Gasuki tob oluwu motdotsas facad wobkovlac ehhanuso jinoggu dilpeb kitdez cekvu lorikwib. Tah te efokih ba jape sigugjih zelanca ef bitvukgum daknaru eva ced bamob wivvarguh.",
+    "bio": "Gejusu egaadeub liszovsi ti ecfeko duh larga pagsofe jasfok cif tuv cavutwah dipjin zefbesef pic loger vimihmer. Poz ave turor teemioci bu kuba sucif lenet omebuw pa codmuboj bur unebopgu muzacti leur. Ubwazi kijjomus jiluz nomtalise ni docidof as gub ceciki nacge opjuuw jewa pokiro ra gazwug vogaror powuveni."
+  },
+  "apiKey": "97fe504df6bcf7d6d1b4969c101dc4477f45fcad1aad5418ef7f83d244db43f4",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
