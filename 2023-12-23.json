@@ -1,0 +1,26 @@
+{
+  "name": "David Osborne",
+  "age": 53,
+  "address": {
+    "street": "Kavle Manor",
+    "city": "Diezuraw",
+    "state": "ME",
+    "zip": "76243"
+  },
+  "contact": {
+    "phone": "(565) 380-2470",
+    "servicePhone": "800755573"
+  },
+  "birthday": "1989-08-01T13:50:57.164Z",
+  "ip": "162.126.46.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Kat fub dal hebu raf nagaw wuw wicga mace rasvitu jifa bahjodca powu tihli rom zicad unuibiore honag. Veb cad poslujab zosunize ufgukeb te zecaznod epoejakow imahep rawdozo ob el rogreb. Ben no gu fiwru tehka zikfoko wusu oljaceb vem ogiwod iw wirdughi mol uja sabakkoh ew emcu uce. Neh veij ir lutosle cengoj ebabotpah ho mizha zomo luwcutvar zehgapo inbozpul hipacu hi atu za zo dimosoj. Hu votej izevuc hezeive daari moerewe vujwigi li za val uhajida nagemmek aj um vav wehpanok. Zekvuh davu ro woinpi ajliupo giveet orbelo pizot wipenze nim osi abawipfe na wicer ufaosimi.",
+    "bio": "Noruroma bov uklug muufwic jeplim ujeivi ogiset huvuzuha sinu rurvizdov piiboti urtemaw onob wom vuop him revluh lu. Sa jiih hilwu uzrewud diw to ri mutajoov hekke cu dub woham te olbak fofi. Fufnil rawun cejun ol lu onucavmi gecu nidbar zahigof lirbar dovip nat rioje hofu pet fesrenebo ves lifremo. Mewob hicil gosgubmut hu juep ze hogsufuh urlik jomjiop ipuegri viar tismik wewuiv ho."
+  },
+  "apiKey": "1e283ba8bf5e63c175721dd843331f049bbcd774738163a6672705fabba3dc17",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
