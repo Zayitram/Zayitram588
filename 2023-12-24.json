@@ -1,0 +1,26 @@
+{
+  "name": "Essie Pearson",
+  "age": 33,
+  "address": {
+    "street": "Tios Mill",
+    "city": "Ihisuza",
+    "state": "OH",
+    "zip": "09849"
+  },
+  "contact": {
+    "phone": "(870) 678-4201",
+    "servicePhone": "800485177"
+  },
+  "birthday": "2005-10-01T02:44:10.024Z",
+  "ip": "36.189.180.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifodim odefugke ope fafdakeno koler hegozhi hocfe hiartup sedjekpaf bo fe mel ge kius atfak. Ekge ruhjihdi bi huctava uhemebpor pauz pujgopdan cadjegheb habauz ab do peg sa feepniz udogapi nopiza liga ubmadpuz. Ugu zug ep ce jaim vejob bes hakafu fe ecwanrim avi jovke se horid hef meepuic telovwu waskup.",
+    "bio": "Rekerfe uwese di kumuvi bame ge vaaca bo ta wuvin me kut owe gaj zogjabap ug. Ve to ujna telpam serwib johizoh ikhu hoh nu mebo vo afuzinem uwahden ifhin siiva gusod wes fec. Ge zete co ovleus ga sijladohe retopuco ime dovaje zocju uvocaf sugu citji uvuwozrur."
+  },
+  "apiKey": "24d9d0545751c7e1c3a5017e69709b26d0bf24bd90f5c523571b3d2cb6e61380",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
