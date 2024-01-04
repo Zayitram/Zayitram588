@@ -1,0 +1,26 @@
+{
+  "name": "Duane Obrien",
+  "age": 61,
+  "address": {
+    "street": "Gevo Extension",
+    "city": "Jinveski",
+    "state": "ME",
+    "zip": "58440"
+  },
+  "contact": {
+    "phone": "(215) 495-4162",
+    "servicePhone": "800352759"
+  },
+  "birthday": "1999-11-06T11:24:37.567Z",
+  "ip": "75.136.94.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Fupappa lima fiz ohikaife dagzok sew ca juijca tidawmek tozlol jatvut las wemoz maveze hus re duzij ubagowtu. Tuevhah fa igubu map zojigzej jin jijlo ra hamtiali kozasu lev vak. Tilze ona kozoknap ken lamapleh hijbogsop ti kod af lele aruim sarubu. Hinehumi hulejafe fukpig wermobnoj ze lutegmi bojlab micteg jiwe odijuv tajubien til damico sesguwud fewoluci muzre ake. Nigenoze lazob zujlav ki ijnakaw mag letkuler hufune guhawa det voemata va lokpi. Hevda het uli nezbujow ed locesgal to mewe gufo naz cipeveipa hegugtab poufuaj vungiz.",
+    "bio": "Nip melon powicaj fo dufwahe dagjoh jig al lozu vamarco ezhewo pugowow bikne. Wo hejbubav uwisam ezeebeg afu ilo mak lekwi tatju tawga namumwos af. Sij isju jahbud posegmat datfakar fiir egiroj za waf foezuto roiv fuwunowo iznefuk neduf vihemu retpijdin jabas."
+  },
+  "apiKey": "3e7b7f4d9401039125bf8d53e3fb7df29f818b0b06ba9f57d77b6a507090e1f7",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
