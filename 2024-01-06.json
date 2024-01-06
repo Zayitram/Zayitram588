@@ -1,0 +1,26 @@
+{
+  "name": "Andre Kim",
+  "age": 24,
+  "address": {
+    "street": "Vawo Court",
+    "city": "Errabkuk",
+    "state": "NH",
+    "zip": "92417"
+  },
+  "contact": {
+    "phone": "(706) 557-2992",
+    "servicePhone": "800268227"
+  },
+  "birthday": "1959-05-25T21:06:14.598Z",
+  "ip": "49.72.133.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo muforej jad bemajo ehcug zo vicas ifasodhi zucerni avoci putavum vif. Cer nel awofop hi edwi ejkelze ikimedzad osepo divwe in holno jovikuwe kopumuz sotivja. Hiksew zu uk reuteim fofte suozi gabvi be hibanodo zumro ju unnijbi em jakdoawo daolji. Motzuh vup watef dufez pogohuejo ativotva lelza junpeg tuvit wetu zip renaf lanfu den lecgofe.",
+    "bio": "Nu kole piibe rusus buz lora uflol jekej uhrejboc weza wo dev. Apiep avje cav henfok nina ged irepoewa tubtakob ewci woj zokkugu ibubpe lopazi pisino biv ichedbob doskemwam ku. Beh ado ezmeca riguw lakwowe uzopez kefug amogiat gajez buw vek hof orupi mit dun gelsig ecozelji."
+  },
+  "apiKey": "a46854f0f5d5578b2b78e433eb5a6af65b6d6db0f1b543bfae4e2f72b88488b7",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
