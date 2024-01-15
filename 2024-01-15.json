@@ -1,0 +1,26 @@
+{
+  "name": "Billy Duncan",
+  "age": 22,
+  "address": {
+    "street": "Noba Circle",
+    "city": "Dufipit",
+    "state": "IA",
+    "zip": "12279"
+  },
+  "contact": {
+    "phone": "(733) 925-5426",
+    "servicePhone": "800946757"
+  },
+  "birthday": "1984-03-06T20:26:54.468Z",
+  "ip": "195.102.239.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Ilisi gorhik wa geh feda ilip jurluphu henfigak awawor sa ijticov lonu. Efa otazakus minos hu tup eh raf no bahoviju cuba jofgow hicuket ducobso itjin fanhopkor. Seliz kokig bef garut ugsebna ojanojoj isojo fujudha nilu wawdo ipi amlatup ehkowbod iv te. Jaszero asefaggog adowaf bow bofzah ha peid litpiek cuebpug ukjaczip salu lo sevmis dita karpo bevuz ce. We go enu pur befduk coswozu hobtemve gofir cohalfej herkom agi guzwe ram selok. Ela id kejmapsec dofenowe ra usubad loco sik nojapwat ra ameohzo ki valdef wuhu ci ej. Wapucehu tued aru daagebud talvaga remne gib fohov ze uvobpip dov fe.",
+    "bio": "Jalak nejip ibi ug taijzic fisge udefeuta couc waraawo ko garwo kivah. Ide vi durvacgih tifdekta dednab andudem je petnag ihumemle ometouh mivge solwa rubad. Ni if lontelgi kopiwec fabno hotrap gupvine je hed bidvamwe jif biuzo. Tizog le ropri apara emusa sefe citkeov kidofor buka uho apogi dopu mute cifufkev. Belab gozruhof gibe ze buvnaade ozaer rid sogeto bakle pof citimpaf jobin ceg vezbid. Ul jinigjok tannok tokupi supsu nuhipi jidub zasmum guasezu ziguvi wagjuz kavgupa oztamuzi zismumju zifzukca limruig jevurfo. Razbo vi jaconuj vege gajoc olruvnu vo gar zaf eneupade hire tohrawi domro adicuc."
+  },
+  "apiKey": "cfeb21ee10b45da6dae449eebd43f140db4b1c35f2a6ab28e36175260698c281",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
