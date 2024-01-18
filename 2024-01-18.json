@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Cain",
+  "age": 33,
+  "address": {
+    "street": "Etujo Place",
+    "city": "Nezolif",
+    "state": "VT",
+    "zip": "97893"
+  },
+  "contact": {
+    "phone": "(743) 975-5463",
+    "servicePhone": "800888637"
+  },
+  "birthday": "2003-01-29T10:17:33.353Z",
+  "ip": "80.111.84.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Utukowbi huz ri awufi cajap bapolu ej pukvabu abe tub fufmeur pisunu ip indi hopbojguz za ziruneza. Ovvibomi ru com hujno rib lesebiv mid gocveb sikotdot juwad for hopub kaara mo ij cob guj. Lidegte vuzewonew nutji gugja niwvuv anri cenastam zeereup pe ma lid ohfoine jusbulu pot oka.",
+    "bio": "Georuwo vujaw domnov direho he ac ra dimo lis davnec opkowrev reejiebe zichoci ajwi faga ova onapez ovto. Avaj voglazip behri mu nevevud vat harlezeg civkepi ujobosov damileur uvwiv basu dobopa. Ba zegereha ru seda web oli necug cikimevuv eli butal viclismu luge sigbib."
+  },
+  "apiKey": "7796b43244443712b149cfe0b3ebe371d09ddc6dac6652091f09bab1d2a8c8a0",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
