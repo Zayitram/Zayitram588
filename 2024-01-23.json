@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Haynes",
+  "age": 44,
+  "address": {
+    "street": "Bodla Street",
+    "city": "Zivulvil",
+    "state": "MT",
+    "zip": "16650"
+  },
+  "contact": {
+    "phone": "(813) 649-2390",
+    "servicePhone": "800387599"
+  },
+  "birthday": "1981-01-19T03:34:03.109Z",
+  "ip": "152.186.6.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci opacep homzolis huhupvob belipjud livrufaf nirif wanu govesaali otu mufuoce med. Ru pif sarha rop rarog tenwu bajbahi ukeweme kor neslesibi hunbas tinda rodwu hef ibroeme howic. Gek mup tacowzi lufnute hemowde zisifigu sem bupguvo paz cezijum nesba ud tarsot sosopco unpiase mel za dizpo.",
+    "bio": "Bame gihwicut duzrofu winwo ad verasse pojoh zisgeh de ra ejjib luzoca azibitta. Eco pij pec bucu woc punbuk ejjiab uf dudut pepruc wuti omgiruz. Tedis otofif rof gagciilu eh ge onaamiin ozmeb usupga nuisde vi tohav dasak rimevrum komu dekzoh."
+  },
+  "apiKey": "90025e0cdff4890e8cc2963c3ba234a79c629699dca19e91730cd56dc14e9758",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
