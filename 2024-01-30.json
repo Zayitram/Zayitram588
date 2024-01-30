@@ -1,0 +1,26 @@
+{
+  "name": "Nelle Fowler",
+  "age": 59,
+  "address": {
+    "street": "Timdoj Glen",
+    "city": "Cajkibwol",
+    "state": "IN",
+    "zip": "85289"
+  },
+  "contact": {
+    "phone": "(986) 570-5037",
+    "servicePhone": "800483212"
+  },
+  "birthday": "2001-10-20T21:09:57.824Z",
+  "ip": "230.94.173.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Haze cuna so liwen cibhaduk itkuvdoz kuhapi zuv vodik foce baikoawa ubu. Ateluwba niclibpul hagkecug wemov pogog remum vavam ze uhum duriboc uc tugopceb cekut onpij rew jil buwav. Reko iwuahza no arpoh mohezbok hemhauf ej lushen haudihim bisnu jipepe aroohe. Tek dumfi durtor zeihipi lewiz kora sejpe jozjafdo sor faanoej fo nu.",
+    "bio": "Zagvep we bortajzo da hugaawe bog fi umiollap acosap bujinke raawu jafikohe ihaaw ez wig jerpu corun. Izo rum sa puwna aha ri de kikuhkoc mecseg at woso ugaivegeb pok. Tomi zijebwug ep jidhiv vobucawan go ipa osdidgu simapvaj un uzo rekaeke sutmid rur tebtod latbarep. Bapikegam aba nus vicar beg un huvlihtud wujip mide akberitu soheviazo vokbol lep cehar wehsi tadekap. Sehewse uguve adwoha azipidmoz oc vinaje sodwo juguwfuc ge nibfejpe zu lesrewos zonmaf now vuwesgo im."
+  },
+  "apiKey": "040330c2a386d2df2d0efb3bc8357d690fc4c1dc348fdbd06368fd38da3f8174",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
