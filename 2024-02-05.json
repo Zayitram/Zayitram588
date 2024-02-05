@@ -1,0 +1,26 @@
+{
+  "name": "Carl Santiago",
+  "age": 62,
+  "address": {
+    "street": "Juibi Parkway",
+    "city": "Panbileb",
+    "state": "TX",
+    "zip": "39705"
+  },
+  "contact": {
+    "phone": "(407) 514-8282",
+    "servicePhone": "800595684"
+  },
+  "birthday": "1959-02-10T07:20:45.320Z",
+  "ip": "231.155.249.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Boji fevun ric diwvo rodmok vorji mahmobe go du meha moffuf bo vitetci wuhopda fifurot ekizo bucvezo. Risvinov curo alubajulo baso ruzustog ta se segag nidfus ruwit biava os go apubucag ruled damrere vizagpec me. Zum sajmafege wosukuv de ih fi aja luce ditwa buvpifpoc davzidfa ojjuvmaj kor afubuh notdomfa jejso. Zuk ukzog lu oneko guecril onbes razsiwa vinzikefo kut zualahov di daare riito.",
+    "bio": "Zartifa uzo mesu fojir huse lubeun hilvinsa kisasre vigzinnof wijojpem imo sihaj. Lopesbov sirudibe obaowo awbita julje laf iwpor hebug gon jusujwe owisal garaka mizoc. Tic aguanwo jo hiaju hob upevomi gugom mu ri aha goug gaigesom."
+  },
+  "apiKey": "fdc2453b39bee5bca0edf07318f90909c9b8cc1ce4ba0f5bcc028cdca4fe6490",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
