@@ -1,0 +1,26 @@
+{
+  "name": "Ian Vasquez",
+  "age": 39,
+  "address": {
+    "street": "Bain Way",
+    "city": "Watonhu",
+    "state": "ND",
+    "zip": "92237"
+  },
+  "contact": {
+    "phone": "(765) 666-9337",
+    "servicePhone": "800816975"
+  },
+  "birthday": "1975-11-27T09:01:29.292Z",
+  "ip": "8.141.112.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Nekbib ihamez cocuru piral mahi mifa zojko tuc towzile agamve hooduve oflawsed. Ofopu ucjefmi ubapowa zippudi awgomap elelifu ci kidmuh he aboefifi puz oho tortele vokogud duduw fameduw ovhod ponipu. Faco tahsefaj jejhe pehfa ezajinu nanon tokfi runtu rozen iruleot lod kibajnim em lod. Awje pu lol gijcakgi pujah ruw budwi isa suke som sogdaz esidikcuz. Gihih idmomar pi civdad fu ic imeini noloh ewebas peznula lulobes fohmafre wosasfa raan.",
+    "bio": "Oztupfil te sus duzsu kawebapi ekakahu ijnu hihbomvu eviwa hib lo usavwi refivaepe sa camuf. Nap riwummi cusev rud mav girwaep pu pimanlid wuwig eddis falgov edhanu tehok ehuha dice. Caec rowwim fiwusanu zacasna ijejal mupiwi upodefab idgi jar dihek kopigi ciuvte ud hovvaneg peak ot tifabipe fiman."
+  },
+  "apiKey": "eea49efa1de2247d255495df5c0d0cd1e9a1f1a6c138eed52168e19cd0dc394c",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
