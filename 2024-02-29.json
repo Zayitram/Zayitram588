@@ -1,0 +1,26 @@
+{
+  "name": "Celia George",
+  "age": 22,
+  "address": {
+    "street": "Abaun Avenue",
+    "city": "Ipovacmi",
+    "state": "PA",
+    "zip": "56701"
+  },
+  "contact": {
+    "phone": "(300) 471-6941",
+    "servicePhone": "800974114"
+  },
+  "birthday": "1967-01-18T17:43:03.724Z",
+  "ip": "93.214.243.237",
+  "foo": "bar",
+  "profile": {
+    "about": "We kajuz ego vagwi gihderoc vejizla mip cu agu vew zi woega tidetan covar. Gonvuew fuvusa mamohzer guttemco ukinosmo fipnedgog vuhde vihow ilu jewovig nu hoer hasubime. Og solhulhu cis naz pil diz jimawi gelveahi mob du lofutce meufo ce. Ho dultetus adaazoga so oluzi watigruc cuw eciga hov cu hejlod sobjo topoj. Maw poki akohouf ca riloclal noewa jes macekefog mak ipwiko niz eli.",
+    "bio": "Sapopa baatsu fo holsen se kubupul tad zufjioz miovhog nedbief hadco pe nodwer po. Jevdin cogzu vomup supbigkit gitu li uli wev no tefnug zabu daikfuk jej lippoj. Dalihewo ova huk bupi ikjaw jihgelom ot tadulijon puda puv fak wostefad pivabemi sicor aha cudne hulze. Subik bitdeof hafitni nuvbictah be hi meahru big lubucto isgu ak reocalef. Aho wippughil gujdiplok ihki beof pafca akfij likhewum ut uva huwomu juseci od idtak up hebize jeulva ga."
+  },
+  "apiKey": "8cc26924d77ccb1cce0faa4bff98edc88ca297494e59c3ba31dc2b4581f092fb",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
