@@ -1,0 +1,26 @@
+{
+  "name": "Allen Jensen",
+  "age": 26,
+  "address": {
+    "street": "Sepuw Ridge",
+    "city": "Zutotme",
+    "state": "NM",
+    "zip": "99338"
+  },
+  "contact": {
+    "phone": "(331) 335-9060",
+    "servicePhone": "800271498"
+  },
+  "birthday": "1974-06-10T00:01:01.981Z",
+  "ip": "12.196.217.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Os ozu fe lirojrit fehsi sosmampuf kumkitti ku fu lufapcem jebwa pu nos pigeb isizelnev butgewku. Vok dulup giokaes zugso ibofiklu te uggeva tehuju aset bu uvi nag na zivtan gaf idujet. Repasgo hat cefoc pefwez ocolucehe rag cej gefogmu vevucje naz wa hal wam in.",
+    "bio": "Poj bew dufruudo uloan kon kaw tawaba jikiwel usnebar tugja nuwvu korcuhzot pusjepov ruvahori geve fefipwi. Wodibe tazcil unmuhta gihazo huhetbi ve gaffo ac paede cu gizoj uw. Cimokzof rudobcu heghelhoc naezmo tassuf eperilpa julli taoba per sir vac hilsup wu sof. Lerdewi hojij vosjude soc dutunon je opegav sofub geoco jamwe ponnol coadu gi."
+  },
+  "apiKey": "6ce24c26908ff5e7faacc74061ee7c27ad0c27e78c21187cd23d2001377a1ab8",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
