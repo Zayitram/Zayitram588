@@ -1,0 +1,26 @@
+{
+  "name": "Cole Shelton",
+  "age": 42,
+  "address": {
+    "street": "Esoig Court",
+    "city": "Gasarhil",
+    "state": "AL",
+    "zip": "83357"
+  },
+  "contact": {
+    "phone": "(756) 259-6952",
+    "servicePhone": "800739629"
+  },
+  "birthday": "2005-06-20T06:11:37.985Z",
+  "ip": "111.56.125.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Zavjiw gava vurat ruvheget zif jifilo siznezni na kizgu ubo ral obarohmi pucag otiivage as. Hefmin vezpu ijopuozo ir leteb pukso robuv tiuv cuko buljir hah ef uvo sagci. Codviru sa wakazgi lojuf kak romru di rep esasag baseuzi totah togsupi ep. Ezas sadvov wop fohan zigwinrul ucezi revuk lat ed uzoon otnobaz ali oc ac herimi ce tibne. Gadieso huk jaksov emmeg lijuj wema soja korusruv fuecisuw hohhu cahbuw ji uto jeeguihu isuharebe beisovi volpo tibufa.",
+    "bio": "Somta rigcej bi iznibi hukdamil ho mozuvo rirebhi gogeh wazo ra vewho ravifobi ra bu buk coamu. Ipdu argavo celem vudfum viafji ajuta goplippaz owini iroke pajo uzpotcol ejsahcu gin guhha cudol buwnoveg edi. Laje dez abkin sohhiiwu caj kimoso uppasi hezu cac kuodiho cirzun doz udaowoesa lupdejvub ul ju ca im. Vutdakluv tebo rojuod efbumrit efzi rirakuuz keda av cu ti li hew ba goza."
+  },
+  "apiKey": "1c291dff8700dd37f19b615e57ef5c467af2c99d687c020de01bd4abd8b7db33",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
