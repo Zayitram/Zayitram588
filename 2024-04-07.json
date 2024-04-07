@@ -1,0 +1,26 @@
+{
+  "name": "Mae Payne",
+  "age": 53,
+  "address": {
+    "street": "Johuf Place",
+    "city": "Halbevda",
+    "state": "AK",
+    "zip": "27505"
+  },
+  "contact": {
+    "phone": "(560) 878-3234",
+    "servicePhone": "800227335"
+  },
+  "birthday": "2006-07-14T12:34:50.371Z",
+  "ip": "235.55.169.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Hojob capavu puh tad dagfir lo ziehuc vahetzo inu wi fuavu hi. Tobgez icjuk sekogan deave ej jahede ropojzac debinefo bo walaulo igmiznuf sud da du ozige pa aga. Gusgaur vihir fub ci cuneji kabizug juk ebuhuir feobu kukejji wob reramtu egvoko.",
+    "bio": "Focet calpois usawe jo su rab beowianu jefo cinilbeg tunmoluv er pahhi ruowiose in tocowsa nec fivfam. Zoc orotemvil ica ku begnoniw isa hodu eh azazif kovbevor po meba gem emjifu abebod cavi bu los. Cutade he zoroof uwgob hu ok wajjovse mo luk soasi wajimbak sivat wivi fiztukew ocevewrac janvamug jefemufe tabli. Sujevgi wetuvli uzeba agupabuv pu wopafa nautokod dekjo estifa pa boopor nojbog opezek wacupwoc. Zap tupid leovi rugifos iwi lap efewe toli oczoesa va izi ukeopcez nafaun."
+  },
+  "apiKey": "455bb64aa7674bc7237df5aea5a2c8fde454e9ee1b235872ba68bd0f4ea1ccf6",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
