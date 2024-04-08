@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Doyle",
+  "age": 22,
+  "address": {
+    "street": "Jero Plaza",
+    "city": "Wimsaan",
+    "state": "VA",
+    "zip": "77853"
+  },
+  "contact": {
+    "phone": "(542) 542-5893",
+    "servicePhone": "800383699"
+  },
+  "birthday": "1977-10-18T11:32:03.505Z",
+  "ip": "74.47.150.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Hecmoc fahuca azezitbuv feh lov ockorheg hono oc ladimaapi titegira ka nanojon maf fe arbus. Ca guvbo kugi bez hug uje re eh me tuszahov giwanewo siji. Ijfasi ersidnul nig cewodi unuwpav gajlosola jo lel sigvu jahacke novuj vij lezimpa fukiiz sipgad. Ufura owo oracur intu pas avmici zecsufec rozosgac co femogeote cegdi vijja pirpi ocemav se.",
+    "bio": "Wu guhwep zuriplad vi gu poregigu bikgi ukagakaw eraristu di ra fefupbu hih ke es cujnoce vo. Ho azenotaf folfap nolgo mihrumoku cado amaco vabzer ezika vet ivi rucsib ci za ohu wi romrutos topaccen. Su gap ozhevluk ra vivnabaza umcicmi olmat kiru lilhimso ciuvumu da ekauk mudgob loli. Eswu ponivsi pi bi mi jirabfo pel latraj vuvsutiw odna guw bin kaososig kafin zewebe bub azaola hadudca. Ejsotab nicalecen dis igze wo hom ewtocek tabirowi zidtarze nok joam ibfegla zieh sitof kah mipu dog hukuiru. Kuguci se soro fovre agaiv so lammacaz sid evegiv kocnu dac buretra."
+  },
+  "apiKey": "018e6521dc4b877f2e9812b92791936209afa153304b21674ec26ed40c7d9156",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
