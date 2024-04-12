@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Kelley",
+  "age": 20,
+  "address": {
+    "street": "Bodzi Circle",
+    "city": "Satagbed",
+    "state": "CA",
+    "zip": "44637"
+  },
+  "contact": {
+    "phone": "(266) 387-2630",
+    "servicePhone": "800929972"
+  },
+  "birthday": "1971-08-11T03:33:09.880Z",
+  "ip": "59.10.124.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja tiligi ponmu su leocele ofifiihe zausoso uwuroh hi sip ijzidso dar ozarocug puvlemlib we sefan. Tiracwa tout dokuk merapno uhusizges gapi mo duzo ge movoji jiwsef ta fitap te mewtatren gabmo juuvmud egnulpu. Go gumon adli dumdok naj dew cozzabu deba hepo wigiuke nidac vemevo humouwe nus turu wuk feekjer goripzi.",
+    "bio": "Gigzuvi bef upigim fek vuob kacafer gavubbar tifnin ijgi rioksu sagi zaep esukufra weldoh jitogar le. Hum hehnuwjo woz howsoduz bezsetra nuzimgo gidham hangade sospon tali vouc sagej. Zouno gav lorzud linku azinujo ajesu sib zahnosge ri micjakket uluuca dehpal nalna gajez urapa tearogi la."
+  },
+  "apiKey": "b65528d8e5c270b8ebcc210f8cdfdc49ca73a1c2606acc8b41d27345a39b2af8",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
